@@ -1,6 +1,0 @@
-Time resolution is 1 ps
-Time=0 | A=0011 B=0101 C_in=0 | S=1000 C_out=0
-Time=10000 | A=0111 B=0001 C_in=0 | S=1000 C_out=0
-Time=20000 | A=1111 B=0001 C_in=0 | S=0000 C_out=1
-Time=30000 | A=0110 B=1001 C_in=0 | S=1111 C_out=0
-$stop called at time : 40 ns : File "C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sim_1/new/four_bit_RCA_tb.v" Line 59
