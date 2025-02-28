@@ -1,8 +1,8 @@
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
 ---------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
-| Date         : Thu Feb 27 11:56:05 2025
-| Host         : DESKTOP-FMABD3K running 64-bit major release  (build 9200)
+| Date         : Thu Feb 27 19:36:37 2025
+| Host         : slimetop running 64-bit major release  (build 9200)
 | Command      : report_control_sets -verbose -file four_bit_RCA_control_sets_placed.rpt
 | Design       : four_bit_RCA
 | Device       : xc7a35t

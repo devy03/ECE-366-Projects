@@ -3,22 +3,22 @@
 # SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
 # IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
 # SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
-# Start of session at: Thu Feb 27 11:55:52 2025
-# Process ID         : 11496
-# Current directory  : C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.runs/impl_1
+# Start of session at: Thu Feb 27 19:36:22 2025
+# Process ID         : 42780
+# Current directory  : C:/Users/dreia/Downloads/ECE266/ECE-366-Projects/project_1/project_1.runs/impl_1
 # Command line       : vivado.exe -log four_bit_RCA.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source four_bit_RCA.tcl -notrace
-# Log file           : C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.runs/impl_1/four_bit_RCA.vdi
-# Journal file       : C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.runs/impl_1\vivado.jou
-# Running On         : DESKTOP-FMABD3K
+# Log file           : C:/Users/dreia/Downloads/ECE266/ECE-366-Projects/project_1/project_1.runs/impl_1/four_bit_RCA.vdi
+# Journal file       : C:/Users/dreia/Downloads/ECE266/ECE-366-Projects/project_1/project_1.runs/impl_1\vivado.jou
+# Running On         : slimetop
 # Platform           : Windows Server 2016 or Windows 10
-# Operating System   : 26100
-# Processor Detail   : 13th Gen Intel(R) Core(TM) i5-13600K
-# CPU Frequency      : 3494 MHz
-# CPU Physical cores : 14
-# CPU Logical cores  : 20
-# Host memory        : 34088 MB
-# Swap memory        : 59990 MB
-# Total Virtual      : 94078 MB
-# Available Virtual  : 65771 MB
+# Operating System   : 22631
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i7-13620H
+# CPU Frequency      : 2918 MHz
+# CPU Physical cores : 10
+# CPU Logical cores  : 16
+# Host memory        : 16869 MB
+# Swap memory        : 5905 MB
+# Total Virtual      : 22774 MB
+# Available Virtual  : 3977 MB
 #-----------------------------------------------------------
 source four_bit_RCA.tcl -notrace

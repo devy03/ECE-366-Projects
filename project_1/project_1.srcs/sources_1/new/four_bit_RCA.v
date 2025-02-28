@@ -3,7 +3,7 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 02/27/2025 11:21:29 AM
+// Create Date: 02/27/2025 06:55:43 PM
 // Design Name: 
 // Module Name: four_bit_RCA
 // Project Name: 
@@ -20,15 +20,15 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module four_bit_RCA(
-    input [3:0] A,
-    input [3:0] B,
-    input C_in,
-    output [3:0] S,
-    output C_out
-    );
+module four_bit_RCA(A, B, C_in, S, C_out);
+    input [3:0] A;
+    input [3:0] B;
+    input C_in;
+    output [3:0] S;
+    output C_out;
     //updated code below
      wire C1, C2, C3;  //wires
+     
 
     // Instantiate the 1-bit adders
     fulladder_structural FA0 (A[0], B[0], C_in, S[0], C1);//C_out ---> C1
