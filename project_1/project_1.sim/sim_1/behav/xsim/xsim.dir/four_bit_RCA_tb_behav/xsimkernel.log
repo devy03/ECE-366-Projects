@@ -1,4 +1,4 @@
-Running: xsim.dir/four_bit_RCA_tb_behav/xsimk.exe -simmode gui -wdb four_bit_RCA_tb_behav.wdb -simrunnum 0 -socket 59305
+Running: xsim.dir/four_bit_RCA_tb_behav/xsimk.exe -simmode gui -wdb four_bit_RCA_tb_behav.wdb -simrunnum 0 -socket 53243
 Design successfully loaded
-Design Loading Memory Usage: 28380 KB (Peak: 28380 KB)
-Design Loading CPU Usage: 468 ms
+Design Loading Memory Usage: 28984 KB (Peak: 28984 KB)
+Design Loading CPU Usage: 436 ms
