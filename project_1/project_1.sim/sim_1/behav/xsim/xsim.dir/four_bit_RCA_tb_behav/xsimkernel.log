@@ -2,3 +2,6 @@ Running: xsim.dir/four_bit_RCA_tb_behav/xsimk.exe -simmode gui -wdb four_bit_RCA
 Design successfully loaded
 Design Loading Memory Usage: 28984 KB (Peak: 28984 KB)
 Design Loading CPU Usage: 436 ms
+Simulation completed
+Simulation Memory Usage: 30072 KB (Peak: 30072 KB)
+Simulation CPU Usage: 530 ms

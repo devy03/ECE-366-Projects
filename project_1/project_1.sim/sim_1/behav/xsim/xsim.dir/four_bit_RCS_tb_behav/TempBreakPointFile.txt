@@ -1,0 +1,9 @@
+Breakpoint File Version 1.0
+43,true,"C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sim_1/imports/Downloads/four_bit_RCS_tb.v"
+44,true,"C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sim_1/imports/Downloads/four_bit_RCS_tb.v"
+51,true,"C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sim_1/imports/Downloads/four_bit_RCS_tb.v"
+48,true,"C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sim_1/imports/Downloads/four_bit_RCS_tb.v"
+47,true,"C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sim_1/imports/Downloads/four_bit_RCS_tb.v"
+52,true,"C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sim_1/imports/Downloads/four_bit_RCS_tb.v"
+55,true,"C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sim_1/imports/Downloads/four_bit_RCS_tb.v"
+56,true,"C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sim_1/imports/Downloads/four_bit_RCS_tb.v"

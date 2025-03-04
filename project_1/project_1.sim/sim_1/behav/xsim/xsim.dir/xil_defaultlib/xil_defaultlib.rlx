@@ -3,7 +3,11 @@
 Nov  8 2024
 22:36:57
 C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sim_1/imports/Downloads/four_bit_RCS_tb.v,1741055991,verilog,,,,four_bit_RCS_tb,,,,,,,,
 C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sim_1/new/four_bit_RCA_tb.v,1740678913,verilog,,,,four_bit_RCA_tb,,,,,,,,
+C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sources_1/new/CLA32.v,1741057876,verilog,,,,CLA32,,,,,,,,
+C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sources_1/new/CLA4.v,1741058995,verilog,,C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sources_1/new/CLA32.v,,CLA4,,,,,,,,
 C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sources_1/new/four_bit_RCA.v,1740677731,verilog,,C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sources_1/new/fulladder_structural.v,,four_bit_RCA,,,,,,,,
 C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sources_1/new/fulladder_b.v,1740672793,verilog,,,,fulladder,,,,,,,,
-C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sources_1/new/fulladder_structural.v,1740676699,verilog,,C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sim_1/new/four_bit_RCA_tb.v,,fulladder_structural,,,,,,,,
+C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sources_1/new/fulladder_structural.v,1740676699,verilog,,C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sim_1/imports/Downloads/four_bit_RCS_tb.v,,fulladder_structural,,,,,,,,
+C:/Users/Devy/Downloads/four_bit_RCS.v,1741055129,verilog,,C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.srcs/sources_1/new/fulladder_structural.v,,four_bit_RCS,,,,,,,,
