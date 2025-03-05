@@ -1,11 +1,7 @@
 Vivado Simulator v2024.2.0
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
 Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
-<<<<<<< Updated upstream
 Running: C:/Xilinx/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot four_bit_RCA_tb_behav xil_defaultlib.four_bit_RCA_tb xil_defaultlib.glbl -log elaborate.log 
-=======
-Running: C:/Xilinx/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot CLA32_tb_behav xil_defaultlib.CLA32_tb xil_defaultlib.glbl -log elaborate.log 
->>>>>>> Stashed changes
 Using 2 slave threads.
 Starting static elaboration
 Pass Through NonSizing Optimizer

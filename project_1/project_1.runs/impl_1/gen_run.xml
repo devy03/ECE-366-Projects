@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< Updated upstream
 <GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1740706574">
   <File Type="REPORTS-TCL" Name="four_bit_RCA_reports.tcl"/>
   <File Type="ROUTE-PWR-SUM" Name="four_bit_RCA_power_summary_routed.pb"/>
@@ -46,54 +45,6 @@
   <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="four_bit_RCA_bus_skew_postroute_physopted.pb"/>
   <File Type="BITSTR-NKY" Name="four_bit_RCA.nky"/>
   <File Type="BITSTR-BMM" Name="four_bit_RCA_bd.bmm"/>
-=======
-<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1741055421">
-  <File Type="REPORTS-TCL" Name="four_bit_RCS_reports.tcl"/>
-  <File Type="ROUTE-PWR-SUM" Name="CLA32_power_summary_routed.pb"/>
-  <File Type="BITSTR-MMI" Name="four_bit_RCS.mmi"/>
-  <File Type="OPT-DRC" Name="CLA32_drc_opted.rpt"/>
-  <File Type="BG-DRC" Name="four_bit_RCS.drc"/>
-  <File Type="ROUTE-STATUS-PB" Name="CLA32_route_status.pb"/>
-  <File Type="BG-BGN" Name="four_bit_RCS.bgn"/>
-  <File Type="PLACE-UTIL" Name="CLA32_utilization_placed.rpt"/>
-  <File Type="PLACE-UTIL-PB" Name="CLA32_utilization_placed.pb"/>
-  <File Type="PLACE-IO" Name="CLA32_io_placed.rpt"/>
-  <File Type="BG-BIN" Name="four_bit_RCS.bin"/>
-  <File Type="PLACE-CTRL" Name="CLA32_control_sets_placed.rpt"/>
-  <File Type="ROUTE-PWR-RPX" Name="CLA32_power_routed.rpx"/>
-  <File Type="BITSTR-MSK" Name="four_bit_RCS.msk"/>
-  <File Type="BITSTR-RBT" Name="four_bit_RCS.rbt"/>
-  <File Type="ROUTE-TIMINGSUMMARY" Name="CLA32_timing_summary_routed.rpt"/>
-  <File Type="ROUTE-TIMING-RPX" Name="CLA32_timing_summary_routed.rpx"/>
-  <File Type="ROUTE-STATUS" Name="CLA32_route_status.rpt"/>
-  <File Type="PA-TCL" Name="four_bit_RCS.tcl"/>
-  <File Type="ROUTE-PWR" Name="CLA32_power_routed.rpt"/>
-  <File Type="ROUTE-DRC" Name="CLA32_drc_routed.rpt"/>
-  <File Type="ROUTE-DRC-RPX" Name="CLA32_drc_routed.rpx"/>
-  <File Type="ROUTE-DRC-PB" Name="CLA32_drc_routed.pb"/>
-  <File Type="BITSTR-SYSDEF" Name="four_bit_RCS.sysdef"/>
-  <File Type="ROUTE-METHODOLOGY-DRC" Name="CLA32_methodology_drc_routed.rpt"/>
-  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="CLA32_methodology_drc_routed.rpx"/>
-  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
-  <File Type="BITSTR-LTX" Name="four_bit_RCS.ltx"/>
-  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="CLA32_methodology_drc_routed.pb"/>
-  <File Type="ROUTE-SIMILARITY" Name="CLA32_incremental_reuse_routed.rpt"/>
-  <File Type="RDI-RDI" Name="four_bit_RCS.vdi"/>
-  <File Type="ROUTE-CLK" Name="CLA32_clock_utilization_routed.rpt"/>
-  <File Type="PA-DCP" Name="four_bit_RCS.dcp"/>
-  <File Type="ROUTE-BUS-SKEW" Name="CLA32_bus_skew_routed.rpt"/>
-  <File Type="ROUTE-BUS-SKEW-RPX" Name="CLA32_bus_skew_routed.rpx"/>
-  <File Type="ROUTE-BUS-SKEW-PB" Name="CLA32_bus_skew_routed.pb"/>
-  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="CLA32_timing_summary_postroute_physopted.rpt"/>
-  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="CLA32_timing_summary_postroute_physopted.rpx"/>
-  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="CLA32_timing_summary_postroute_physopted.pb"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="CLA32_bus_skew_postroute_physopted.rpt"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="CLA32_bus_skew_postroute_physopted.rpx"/>
-  <File Type="BG-BIT" Name="four_bit_RCS.bit"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="CLA32_bus_skew_postroute_physopted.pb"/>
-  <File Type="BITSTR-NKY" Name="four_bit_RCS.nky"/>
-  <File Type="BITSTR-BMM" Name="four_bit_RCS_bd.bmm"/>
->>>>>>> Stashed changes
   <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
   <File Type="OPT-HWDEF" Name="four_bit_RCA.hwdef"/>
   <File Type="PLACE-PRE-SIMILARITY" Name="four_bit_RCA_incremental_reuse_pre_placed.rpt"/>
