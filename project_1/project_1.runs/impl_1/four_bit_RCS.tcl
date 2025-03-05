@@ -1,5 +1,5 @@
 namespace eval ::optrace {
-  variable script "C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.runs/impl_1/four_bit_RCS.tcl"
+  variable script "C:/Users/dreia/GitHubRepos/ECE-366-Projects/project_1/project_1/project_1.runs/impl_1/four_bit_RCS.tcl"
   variable category "vivado_impl"
 }
 
@@ -97,6 +97,7 @@ proc step_failed { step } {
 OPTRACE "impl_1" END { }
 }
 
+set_msg_config -id {Common 17-41} -limit 10000000
 
 OPTRACE "impl_1" START { ROLLUP_1 }
 OPTRACE "Phase: Init Design" START { ROLLUP_AUTO }
@@ -104,14 +105,31 @@ start_step init_design
 set ACTIVE_STEP init_design
 set rc [catch {
   create_msg_db init_design.pb
-  set_param chipscope.maxJobs 5
-  set_param runs.launchOptions { -jobs 20  }
-  reset_param project.defaultXPMLibraries 
-  open_checkpoint C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.runs/impl_1/four_bit_RCS.dcp
-  set_property webtalk.parent_dir C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.cache/wt [current_project]
-  set_property parent.project_path C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.xpr [current_project]
-  set_property ip_output_repo C:/Users/Devy/Desktop/ECE366_Projects/project_1/project_1.cache/ip [current_project]
+  set_param chipscope.maxJobs 4
+  set_param runs.launchOptions { -jobs 8  }
+OPTRACE "create in-memory project" START { }
+  create_project -in_memory -part xc7a35tcpg236-1
+  set_property design_mode GateLvl [current_fileset]
+  set_param project.singleFileAddWarning.threshold 0
+OPTRACE "create in-memory project" END { }
+OPTRACE "set parameters" START { }
+  set_property webtalk.parent_dir C:/Users/dreia/GitHubRepos/ECE-366-Projects/project_1/project_1/project_1.cache/wt [current_project]
+  set_property parent.project_path C:/Users/dreia/GitHubRepos/ECE-366-Projects/project_1/project_1/project_1.xpr [current_project]
+  set_property ip_output_repo C:/Users/dreia/GitHubRepos/ECE-366-Projects/project_1/project_1/project_1.cache/ip [current_project]
   set_property ip_cache_permissions {read write} [current_project]
+OPTRACE "set parameters" END { }
+OPTRACE "add files" START { }
+  add_files -quiet C:/Users/dreia/GitHubRepos/ECE-366-Projects/project_1/project_1/project_1.runs/synth_1/four_bit_RCS.dcp
+OPTRACE "read constraints: implementation" START { }
+OPTRACE "read constraints: implementation" END { }
+OPTRACE "read constraints: implementation_pre" START { }
+OPTRACE "read constraints: implementation_pre" END { }
+OPTRACE "add files" END { }
+OPTRACE "link_design" START { }
+  link_design -top four_bit_RCS -part xc7a35tcpg236-1 
+OPTRACE "link_design" END { }
+OPTRACE "gray box cells" START { }
+OPTRACE "gray box cells" END { }
 OPTRACE "init_design_reports" START { REPORT }
 OPTRACE "init_design_reports" END { }
 OPTRACE "init_design_write_hwdef" START { }

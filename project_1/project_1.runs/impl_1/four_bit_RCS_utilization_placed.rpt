@@ -1,8 +1,8 @@
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
 ---------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
-| Date         : Mon Mar  3 20:30:47 2025
-| Host         : DESKTOP-FMABD3K running 64-bit major release  (build 9200)
+| Date         : Tue Mar  4 17:18:49 2025
+| Host         : slimetop running 64-bit major release  (build 9200)
 | Command      : report_utilization -file four_bit_RCS_utilization_placed.rpt -pb four_bit_RCS_utilization_placed.pb
 | Design       : four_bit_RCS
 | Device       : xc7a35tcpg236-1

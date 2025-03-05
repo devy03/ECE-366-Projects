@@ -1,7 +1,7 @@
-Running: xsim.dir/four_bit_RCS_tb_behav/xsimk.exe -simmode gui -wdb four_bit_RCS_tb_behav.wdb -simrunnum 0 -socket 53907
+Running: xsim.dir/four_bit_RCS_tb_behav/xsimk.exe -simmode gui -wdb four_bit_RCS_tb_behav.wdb -simrunnum 0 -socket 57166
 Design successfully loaded
-Design Loading Memory Usage: 29848 KB (Peak: 29848 KB)
-Design Loading CPU Usage: 437 ms
+Design Loading Memory Usage: 28292 KB (Peak: 28292 KB)
+Design Loading CPU Usage: 483 ms
 Simulation completed
-Simulation Memory Usage: 30912 KB (Peak: 30912 KB)
-Simulation CPU Usage: 577 ms
+Simulation Memory Usage: 29176 KB (Peak: 29176 KB)
+Simulation CPU Usage: 561 ms
