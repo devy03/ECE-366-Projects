@@ -8,7 +8,7 @@
 - Andrei Aquino (655230892)
 
 **GitHub Repository:**  
-[Project 2 Repository](https://github.com/devy03/ECE-366-Projects/tree/92c18f79841b56d94489c2611fa0e7a58993dfe4/Project%202)
+[Project 2 Repository](https://github.com/devy03/ECE-366-Projects/tree/1a83e4e58f5a5039df59cf0c1c2b267ddaa50904/Project%202)
 
 ---
 
