@@ -1,4 +1,4 @@
-# Project 2 Progress Report (1)
+# Project 2 Progress Report (2)
 
 **Date:** 04/02/2025  
 **Team Members:**
@@ -10,13 +10,15 @@
 **GitHub Repository:**  
 [Project 2 Repository](https://github.com/devy03/ECE-366-Projects/tree/1a83e4e58f5a5039df59cf0c1c2b267ddaa50904/Project%202)
 
+
 ---
 
 ## How to Run the Simulation
+- " .data
+value:  .word 9 #<---- change this number to test if this is an odd or even number " 
+  
 
-- Change **line 2** of the `.asm` file to the desired value of `n` to run `Fibonacci(n)`.
 
-![alt text](image-1.png)
 
 ---
 
@@ -24,20 +26,18 @@
 
 - Go to the **Data Segment** tab
 - Look for memory address `0x10010000`
-  - **Value(+0)** = `n`
-  - **Value(+4)** = `Fibonacci(n)`
+- this will eventually be 1 or zero depending on given val
 
-![alt text](image.png)
 
----
+
 
 ## Team Member Responsibilities
 
 - **Devarsh Gandhi (33%)**  
-  Collaboratively wrote the code for `Fibonacci(n)` and created the README file.
+  Based the first sample code made revision to the `Odd(m)` code and helped Jalen create the tar file.
 
 - **Jalen Davis (33%)**  
-  Collaborated with Drei and Devarsh on the starting code and provided input on the Fibonacci implementation.
-
+  Collaboratively wrote the early code for `Odd(m)` and created the README file.
+  
 - **Andrei Aquino (34%)**  
-  Collaboratively wrote the code for `Fibonacci(n)`.
+  Collaboratively wrote the code finalized veriosn of the  `Odd(m)`.
