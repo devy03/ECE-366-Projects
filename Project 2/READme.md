@@ -35,7 +35,7 @@
 ## Team Member Responsibilities
 
 - **Devarsh Gandhi (34%)**  
-  Collaboratively wrote the code for `Fibonacci(n), isOdd(m)`. Combined `isOdd(m)` logic written by the group and added it to `Fibonacci(n)` code. Created `Readme.md`
+  Collaboratively wrote the code for `Fibonacci(n)`. Combined `isOdd(m)` logic written by the group and added it to `Fibonacci(n)` code. Created `Readme.md`
 
 - **Jalen Davis (33%)**  
   Collaborated with Drei and Devarsh on the starting code and provided input on the Fibonacci implementation. [edit here]
