@@ -38,7 +38,7 @@
   Collaboratively wrote the code for `Fibonacci(n)`. Combined `isOdd(m)` logic written by the group and added it to `Fibonacci(n)` code. Created `Readme.md`
 
 - **Jalen Davis (33%)**  
-  Collaborated with Drei and Devarsh on the starting code and provided input on the Fibonacci implementation. [edit here]
+  Collaborated with Drei and Devarsh on the starting code and provided input on the Fibonacci implementation. Collaboratively wrote the early code for  `Odd(m)`
 
 - **Andrei Aquino (33%)**  
-  Collaboratively wrote the code for `Fibonacci(n)`. [add here]
+  Collaboratively wrote the code for `Fibonacci(n)`. Wrote the code finalized veriosn of the `Odd(m).`
